@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview of the analysis
-This repository includes code to determine whether organiztions will be successfully funded or not by Alphabet Soup using Nerual Netowrk models. This machine learning model is designed using Tensorflow and Keras and written on Jupyter Notebook.
+This repository includes code to determine whether organiztions will be successfully funded or not by Alphabet Soup using Nerual Netowrk models. This machine learning model is designed using Tensorflow and Keras and written on Python - Jupyter Notebook.
 
 ## Results
 
